@@ -165,7 +165,7 @@ export default function Home() {
                 <TabsContent value='registry' className='space-y-6 mt-6'>
                   <div className='text-center space-y-4'>
                     <GiftIcon className='w-12 h-12 mx-auto text-rose-500' />
-                    <h3 className='text-xl font-semibold'>Gift Registry</h3>
+                    <h3 className='text-xl font-semibold'>Registro de regalos</h3>
                     <p className='text-gray-600'>
                       Tu presencia en nuestra boda es el regalo más grande de
                       todos. Sin embargo, si desea honrarnos con un regalo, nos
