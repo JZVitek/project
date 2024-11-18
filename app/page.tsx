@@ -157,7 +157,7 @@ export default function Home() {
                     <p>[Venue Name]</p>
                     <p>[Complete Address]</p>
                     <Button variant='outline' className='w-full'>
-                      Obtener Direcciones
+                      Obtener Direccion
                     </Button>
                   </div>
                 </TabsContent>
